@@ -1,0 +1,19 @@
+{
+    "name": "bridenis/leetcode",
+    "description": "leetcode.com solutions",
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Easy\\": "src/easy/src/"
+        }
+    },
+    "license": "CC0 1.0 Universal",
+    "authors": [
+        {
+            "name": "bridennis",
+            "email": "5626164+bridennis@users.noreply.github.com"
+        }
+    ]
+}
