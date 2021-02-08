@@ -6,7 +6,8 @@
     },
     "autoload": {
         "psr-4": {
-            "Easy\\": "src/easy/src/"
+            "Easy\\": "src/easy/src/",
+            "Medium\\": "src/medium/src/"
         }
     },
     "license": "CC0 1.0 Universal",
