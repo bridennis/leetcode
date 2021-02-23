@@ -7,7 +7,7 @@ use PHPUnit\Framework\TestCase;
 final class SolutionTest extends TestCase
 {
     /** @test */
-    public function it_should_return_reverse_numbers(): void
+    public function it_should_return_the_correct_plus_one_array(): void
     {
         $sut = new Solution();
 
