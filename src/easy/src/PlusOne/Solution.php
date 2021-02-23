@@ -3,8 +3,6 @@
 namespace Easy\PlusOne;
 
 use function array_merge;
-use function array_push;
-use function array_unshift;
 use function count;
 
 final class Solution {
